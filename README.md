@@ -29,8 +29,6 @@ ecommerce-website/
 <img width="1335" height="621" alt="image" src="https://github.com/user-attachments/assets/9edb0c77-f119-42eb-86a1-b2efd92df3e4" />
 <img width="1332" height="616" alt="image" src="https://github.com/user-attachments/assets/e868b6da-917e-4c54-a510-2585037293e5" />
 
----
-
 ## 🚀 How to Run the Project
 
 1. Download or copy all the files:
