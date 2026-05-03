@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: linear-gradient(120deg, #8e2de2, #ff6a88);
+    color: #333;
+}
+
+/* Navbar */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: white;
+    border-radius: 0 0 15px 15px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
+
+#search {
+    padding: 8px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+/* Hero */
+.hero {
+    padding: 40px;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 40px;
+}
+
+/* Products */
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.product {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    width: 200px;
+    text-align: center;
+}
+
+.product button {
+    background: purple;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* Cart */
+.cart {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+/* Support */
+.support {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
